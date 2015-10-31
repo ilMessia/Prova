@@ -1,0 +1,5 @@
+http://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm#giniimp
+
+http://docs.opencv.org/modules/ml/doc/random_trees.html
+
+http://breckon.eu/toby/teaching/ml/examples/c++/opticaldigits_ex/randomforest.cpp
